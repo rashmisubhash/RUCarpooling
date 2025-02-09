@@ -1,0 +1,1 @@
+{"statusCode": 500, "body": "{\"error\": \"An error occurred (ValidationException) when calling the PutItem operation: One or more parameter values were invalid: Type mismatch for Index Key user_id Expected: S Actual: NULL IndexName: user_id-index\"}"}
